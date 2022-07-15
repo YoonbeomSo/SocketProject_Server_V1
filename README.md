@@ -7,6 +7,7 @@ DB : <br/>
 - Version1 = 사용하지 않음.<br/>
 - Version2 = Oracle 11<br/>
 - ojdbc8<br/>
+<br/>
 Thread : N:1 MultiThread<br/>
 API : SMS API SENS<br/>
 <br/>
